@@ -1,4 +1,0 @@
-export const CLEAR_CODE_PEGS ='CLEAR_CODE_PEGS';
-export const CLEAR_KEY_PEGS ='CLEAR_KEY_PEGS';
-export const LOAD_CODE_PEGS ='LOAD_CODE_PEGS';
-export const LOAD_KEY_PEGS ='LOAD_KEY_PEGS';
